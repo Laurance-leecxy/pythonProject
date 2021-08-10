@@ -1,0 +1,13 @@
+{
+    "DB_USER": "opera_python",
+    "DB_PASS": "nenglianginfo2021@python",
+    "DB_HOST": "rm-uf698x9pde1ytqxe8ko.mysql.rds.aliyuncs.com",
+    "DB_PORT": 3306,
+    "DATABASE": "operating-management",
+    "REDIS": {
+        "host": "47.103.106.151",
+        "port": 6379,
+        "password": "nengliang2019@",
+        "database": 0
+    }
+}

@@ -1,0 +1,15 @@
+2021/04/22-08:56:32.075 110f4 Reusing MANIFEST C:\Users\Administrator\Desktop\projects_zb\projects\sku_cost\jd_pro\tool\jd\userdata_jztLOVO尊实专卖店\Default\IndexedDB\https_passport.jd.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/22-08:56:32.075 110f4 Recovering log #783
+2021/04/22-08:56:32.075 110f4 Reusing old log C:\Users\Administrator\Desktop\projects_zb\projects\sku_cost\jd_pro\tool\jd\userdata_jztLOVO尊实专卖店\Default\IndexedDB\https_passport.jd.com_0.indexeddb.leveldb/000783.log 
+2021/04/22-08:56:35.381 e66c Level-0 table #788: started
+2021/04/22-08:56:35.387 e66c Level-0 table #788: 891 bytes OK
+2021/04/22-08:56:35.390 e66c Delete type=0 #783
+2021/04/22-08:56:35.390 e66c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/22-08:56:35.390 e66c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x10\x003\x00A\x00B\x009\x00D\x002\x003\x00F\x007\x00A\x004\x00B\x003\x00C\x009\x00B' @ 7035 : 1
+2021/04/22-08:56:35.390 e66c Compacting 1@1 + 1@2 files
+2021/04/22-08:56:35.396 e66c Generated table #789@1: 19 keys, 709 bytes
+2021/04/22-08:56:35.396 e66c Compacted 1@1 + 1@2 files => 709 bytes
+2021/04/22-08:56:35.411 e66c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/22-08:56:35.411 e66c Delete type=2 #785
+2021/04/22-08:56:35.411 e66c Delete type=2 #788
+2021/04/22-08:56:35.412 e66c Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x10\x003\x00A\x00B\x009\x00D\x002\x003\x00F\x007\x00A\x004\x00B\x003\x00C\x009\x00B' @ 7035 : 1 .. (end); will stop at (end)

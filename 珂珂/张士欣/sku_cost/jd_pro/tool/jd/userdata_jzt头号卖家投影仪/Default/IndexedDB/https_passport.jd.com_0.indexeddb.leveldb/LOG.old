@@ -1,0 +1,15 @@
+2021/04/22-08:57:53.097 f638 Reusing MANIFEST C:\Users\Administrator\Desktop\projects_zb\projects\sku_cost\jd_pro\tool\jd\userdata_jzt头号卖家投影仪\Default\IndexedDB\https_passport.jd.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/22-08:57:53.097 f638 Recovering log #774
+2021/04/22-08:57:53.097 f638 Reusing old log C:\Users\Administrator\Desktop\projects_zb\projects\sku_cost\jd_pro\tool\jd\userdata_jzt头号卖家投影仪\Default\IndexedDB\https_passport.jd.com_0.indexeddb.leveldb/000774.log 
+2021/04/22-08:57:56.675 105fc Level-0 table #779: started
+2021/04/22-08:57:56.680 105fc Level-0 table #779: 888 bytes OK
+2021/04/22-08:57:56.685 105fc Delete type=0 #774
+2021/04/22-08:57:56.685 105fc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/22-08:57:56.685 105fc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x10\x003\x00A\x00B\x009\x00D\x002\x003\x00F\x007\x00A\x004\x00B\x003\x00C\x009\x00B' @ 6732 : 1
+2021/04/22-08:57:56.685 105fc Compacting 1@1 + 1@2 files
+2021/04/22-08:57:56.725 105fc Generated table #780@1: 19 keys, 709 bytes
+2021/04/22-08:57:56.725 105fc Compacted 1@1 + 1@2 files => 709 bytes
+2021/04/22-08:57:56.785 105fc compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/22-08:57:56.786 105fc Delete type=2 #776
+2021/04/22-08:57:56.786 105fc Delete type=2 #779
+2021/04/22-08:57:56.786 105fc Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x10\x003\x00A\x00B\x009\x00D\x002\x003\x00F\x007\x00A\x004\x00B\x003\x00C\x009\x00B' @ 6732 : 1 .. (end); will stop at (end)
